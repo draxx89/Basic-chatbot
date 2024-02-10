@@ -1,0 +1,20 @@
+{
+  "questions": [
+    {
+      "question": "hello",
+      "answer": "hi"
+    },
+    {
+      "question": "tell me a joke",
+      "answer": "potty"
+    },
+    {
+      "question": "joke",
+      "answer": "tell me a joke"
+    },
+    {
+      "question": "how is todays weather",
+      "answer": "please refer to https://www.accuweather.com/en/in/faridabad/202446/weather-forecast/202446"
+    }
+  ]
+}
